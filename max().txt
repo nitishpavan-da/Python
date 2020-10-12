@@ -1,3 +1,10 @@
-a = [6,10,4,0,1]
-largest_num = max(a)
-print("The largest number is {}".format(largest_num))
+Assignment - 1
+--------------------------------------------------------
+
+1 . Built-in functions in Python:
+
+	a. max(): Returns the largest number in a sequence of numbers or the first occuring alphabet in strings.
+	
+	Example: a = [6,10,4,0,1]
+		largest_num = max(a)
+		print("The largest number is {}".format(largest_num))
